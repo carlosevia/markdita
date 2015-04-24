@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="conref_keywords">
+ <title>Conref Keywords</title>
+ <shortdesc>List of reusable keywords.</shortdesc>
+ <conbody>
+  <p><keyword id="product_name">Remote Network Lighting</keyword></p>
+ </conbody>
+</concept>
