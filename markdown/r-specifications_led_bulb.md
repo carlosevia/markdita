@@ -1,4 +1,4 @@
-# LED Light Bulb Specifications {#ref_specifications_led_bulb .reference}
+# LED Light Bulb Specifications {.reference}
 
 Specifications describing the electronics and technology inside the LED light bulb.
 
@@ -10,6 +10,4 @@ Specifications describing the electronics and technology inside the LED light bu
 |Power|7.5W \(40W Equivalent\)|
 |Power Factor|\>0.7|
 |Energy|Energy Star Certified / EEL Rating: A|
-
-**Parent topic:**[Product Specifications](ref_specifications_overview.md)
 

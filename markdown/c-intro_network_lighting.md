@@ -1,4 +1,4 @@
-# Basic Concepts of Network Lighting {#intro_network_lighting .concept}
+# Basic Concepts of Network Lighting {.concept}
 
 You can network LED light bulbs together to operate wirelessly from a remote control.
 
@@ -9,13 +9,11 @@ Network light bulbs work with your light fixtures the same way as standard light
 
 Because the light bulbs can be connected to a network, you have greater flexibility in how you use them.
 
-## Examples { .example}
+## Examples {.example}
 
 -   You can program your lighting network so that when you press a button upon arriving home, an entryway and a hallway light turn on.
 -   When you go to bed, your remote control can turn off all lights on the network.
 
--   **[Low-Power Networking](intro_low_power_networking.md)**  
-Network lighting operates at a low level of networking power but can successfully connect at long distances because they can send information from light bulb to light bulb.
--   **[Maximum Number of Network Light Bulbs](intro_max_number_bulbs.md)**  
-Testing shows you should network no more than 250 light bulbs to maintain reliable performance.
+-   [lowpower]. Network lighting operates at a low level of networking power but can successfully connect at long distances because they can send information from light bulb to light bulb.
+-   [maximum]. Testing shows you should network no more than 250 light bulbs to maintain reliable performance.
 

@@ -1,16 +1,14 @@
-# Turning On/Off or Dimming a Lights {#how_to_turn_on_off_dim_lights .task}
+# How to Turn On/Off or Dim Lights {.task}
 
 You can turn on, turn off, or dim a lighting group by pressing the group number button and then pressing the power button or the dimmer control.
 
-Before you can operate a lighting group you must [program the network light bulbs](how_to_program_bulbs_to_groups.md#) you want included in that lighting group.
+## Pre-requisites {.prereq}
 
-To turn on, turn off, or dim lights:
+Before you can operate a lighting group you must know [groups].
 
-1.  Select the lighting group\(s\) you want to operate:
+1.   Select the lighting group\(s\) you want to operate:
 
-    CAUTION:
-
-    When selecting a lighting group, do not press and hold the lighting group button for longer than 4 seconds. Doing so activates light bulb programming for the selected lighting group.
+    **CAUTION:** When selecting a lighting group, do not press and hold the lighting group button for longer than 4 seconds. Doing so activates light bulb programming for the selected lighting group.
 
     |For this situation...|Perform this task...|
     |---------------------|--------------------|
@@ -34,6 +32,7 @@ To turn on, turn off, or dim lights:
 
     The power button indicator turns green if the signal is successfully sent. If the indicator turns red, the signal was not sent and you must start over.
 
+## Result {.result}
 
 The light bulbs in the selected lighting group turn on, turn off, or dim depending on your selection.
 
