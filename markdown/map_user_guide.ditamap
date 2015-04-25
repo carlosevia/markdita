@@ -7,7 +7,7 @@
   <author>Carlos Evia</author>
  </topicmeta>
 
- <topicref href="c-intro_product.md" format="markdown"/>
+ <topicref href="index.md" format="markdown"/>
  <topicref href="r-remote_control_components.md" format="markdown"/>
  <topicref href="c-intro_network_lighting.md" format="markdown">
   <topicref href="c-intro_low_power_networking.md" keys="lowpower" format="markdown" />
