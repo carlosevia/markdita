@@ -8,18 +8,18 @@
  </topicmeta>
 
  <topicref href="index.md" format="markdown"/>
- <topicref href="r-remote_control_components.md" format="markdown"/>
- <topicref href="c-intro_network_lighting.md" format="markdown">
-  <topicref href="c-intro_low_power_networking.md" keys="lowpower" format="markdown" />
-  <topicref href="c-intro_max_number_bulbs.md" keys="maximum" format="markdown"/>
+ <topicref href="r_remote_control_components.md" format="markdown"/>
+ <topicref href="c_intro_network_lighting.md" format="markdown">
+  <topicref href="c_intro_low_power_networking.md" keys="lowpower" format="markdown" />
+  <topicref href="c_intro_max_number_bulbs.md" keys="maximum" format="markdown"/>
  </topicref>
  
- <topicref href="c-intro_considerations_planning_light_network.md" format="markdown"/>
- <topicref href="t-how_to_program_bulbs_to_groups.md" keys="groups" format="markdown"/>
- <topicref href="t-how_to_turn_on_off_dim_lights.md" format="markdown"/>
- <topicref href="t-how_to_replace_batteries.md" format="markdown"/>
- <topicref href="r-specifications_overview.md" format="markdown">
-  <topicref href="r-specifications_remote_control.md" keys="remote-specs" format="markdown"/>
-  <topicref href="r-specifications_led_bulb.md" keys="led-specs" format="markdown"/>
+ <topicref href="c_intro_considerations_planning_light_network.md" format="markdown"/>
+ <topicref href="t_how_to_program_bulbs_to_groups.md" keys="groups" format="markdown"/>
+ <topicref href="t_how_to_turn_on_off_dim_lights.md" format="markdown"/>
+ <topicref href="t_how_to_replace_batteries.md" format="markdown"/>
+ <topicref href="r_specifications_overview.md" format="markdown">
+  <topicref href="r_specifications_remote_control.md" keys="remote-specs" format="markdown"/>
+  <topicref href="r_specifications_led_bulb.md" keys="led-specs" format="markdown"/>
  </topicref>
 </map>
