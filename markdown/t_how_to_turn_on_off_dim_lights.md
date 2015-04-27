@@ -10,7 +10,7 @@ Before you can operate a lighting group you must know [groups].
 
     **CAUTION:** When selecting a lighting group, do not press and hold the lighting group button for longer than 4 seconds. Doing so activates light bulb programming for the selected lighting group.
 
-    |For this situation...|Perform this task...|
+    |For this situation:|Perform this task:|
     |---------------------|--------------------|
     |**Operate the lighting group that was last controlled**|Do not press a lighting group button \(pressing the button is optional\). The most recent lighting group remains current on the remote control.|
     |**Operate one lighting group**|Press the number button for the lighting group you want to operate.|
@@ -23,7 +23,7 @@ Before you can operate a lighting group you must know [groups].
 
 2.  Turn on, turn off, or dim the lighting group:
 
-    |For this lighting result...|Perform this task...|
+    |For this lighting result:|Perform this task:|
     |---------------------------|--------------------|
     |**Turn on/off**|Press the power button. The selected lighting group turns on if it is currently off and turns off if it is currently on.|
     |**Turn on/off all network lights regardless of programming**|Press and hold the power button for 5 seconds. All network lights \(even if not programmed\) initially turn on. Repeat this task to turn them all off.|
