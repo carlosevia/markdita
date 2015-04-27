@@ -10,6 +10,6 @@ Your remote control runs on two AA batteries.
 2.   Remove the old batteries.
 3.   Insert the new batteries, as shown in the image:
 
-    ![Batteries](_images/batteries.png)
+    ![Batteries](images/batteries.png)
 
 

@@ -7,6 +7,6 @@ The [product-name] kit includes a wireless smart lighting system that helps make
 -   Remote control: Allows you to power on, power off, and dim groups of lights on your network.
 -   LED light bulbs: Energy-efficient network light bulbs you can install into standard light fixtures.
 
-![Remote lighting kit](_images/kit.png "Remote lighting kit")
+![Remote lighting kit](images/kit.png "Remote lighting kit")
 
 

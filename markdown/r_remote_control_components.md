@@ -2,7 +2,7 @@
 
 The remote control has components that allow you to program and operate the light bulbs on your lighting network.
 
-![Front and back of remote control](_images/remote_control_callouts.png "Front and back of remote control")
+![Front and back of remote control](images/remote_control_callouts.png "Front and back of remote control")
 
 |\#|Component|Description|
 |--|---------|-----------|
