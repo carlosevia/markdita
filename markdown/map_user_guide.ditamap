@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
+
+ 
  <title>Remote Network Lighting Kit User Guide</title>
  <topicmeta>
   <author>Kevin Lewis</author>
   <author>Carlos Evia</author>
  </topicmeta>
 
+ 
 <keydef keys="product-name">
  <topicmeta>
   <keywords>
