@@ -7,6 +7,15 @@
   <author>Carlos Evia</author>
  </topicmeta>
 
+<keydef keys="product-name">
+ <topicmeta>
+  <keywords>
+   <keyword>Remote Network Lighting</keyword>
+  </keywords>
+ </topicmeta>
+</keydef>
+ 
+ 
  <topicref href="index.md" format="markdown"/>
  <topicref href="r_remote_control_components.md" format="markdown"/>
  <topicref href="c_intro_network_lighting.md" format="markdown">
