@@ -9,6 +9,6 @@ The [product-name] kit includes a wireless smart lighting system that helps make
 
 ![Remote lighting kit](images/kit.png "Remote lighting kit")
 
-{{ site.data.conrefs.phrases.good }}
+
 
 
